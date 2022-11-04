@@ -32,11 +32,11 @@ ${ROOT}
 ### Training and Testing
 For training:
 ```
-python train.sh
+bash train.sh
 ```
 For testing:
 ```
-python infer.sh
+bash infer.sh
 ```
 ### Reference
  * ResNet [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
