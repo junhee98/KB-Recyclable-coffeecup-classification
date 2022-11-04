@@ -1,4 +1,4 @@
-# Recyclable-coffeecup-classification
+# KB-Recyclable-coffeecup-classification
 
 ## Quick Start
 ### Data preparation
