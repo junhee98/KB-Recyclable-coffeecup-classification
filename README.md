@@ -1,4 +1,5 @@
-# KB-Recyclable-coffeecup-classificationThis recyclable coffee cup classification code was used at the KB Kookmin Bank Software Competition. 
+# KB-Recyclable-coffeecup-classification
+This recyclable coffee cup classification code was used at the KB Kookmin Bank Software Competition. 
 ## Project Description
 We created an automated collecting system that can identify recyclable coffee cups in real-time.
 ### Product
