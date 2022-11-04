@@ -23,3 +23,12 @@ ${ROOT}
             |-- paper_in
             |-- waste
 ```
+### Training and Testing
+For training:
+```
+python train.sh
+```
+For testing:
+```
+python infer.sh
+```
